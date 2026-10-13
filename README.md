@@ -1,1 +1,25 @@
-# MI-PRIMER-PROYECTO
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Galería de 3 Fotos</title>
+    <style>
+        body {
+            background-color: #0b0b16;
+            color: #ffffff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+            padding: 40px;
+            margin: 0;
+        }
+        h1 {
+            color: #ff4757;
+        }
+    </style>
+</head>
+<body>
+    <h1>Mi Galería de Fotos</h1>
+    <p>Bienvenido a mi primera página web.</p>
+</body>
+</html>
